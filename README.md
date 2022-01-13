@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-**Education**
+
+### **Education**
 - 인하대학교 산업경영공학과 학사
 - 인하대학교 빅데이터 분석 연계전공 
 
-**Career**
+### **Career**
 - (2020.12 ~ 2021.05) 인하대학교 빅데이터 동아리 InBig 활동
 - (2021.06 ~ 2021.12) 인하대학교 산업경영공학과 Tactic lab 학부 인턴
 - (2021.06 ~ 2021.12) 현대 엘리베이터 프로젝트 
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 - (2021.10 ~ 2021.10) 한국품질경영학회 추계 학술대회 우수논문상
 - (2021.10 ~ 2021.11) 국민권익위 민원데이터 분석 경진대회 
 
-**Certificate**
+### **Certificate**
 - ADSP(데이터분석 준전문가)
 
 
