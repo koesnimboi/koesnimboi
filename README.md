@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=last7255)](https://solved.ac/last7255/)
 
 ### **Education**
-- 인하대학교 산업경영공학과 학사
+- 인하대학교 산업경영공학 전공
 - 인하대학교 빅데이터 분석 연계전공 
 
 ### **Career**
