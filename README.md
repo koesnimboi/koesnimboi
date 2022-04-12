@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 ### **Prize**
-- 한국품질경영학회 추계 학술대회 우수 논문상
+- 2021 한국품질경영학회 추계 학술대회 우수 논문상
 
 
 ### **Certificate**
