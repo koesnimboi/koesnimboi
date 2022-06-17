@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 ### **Certificate**
 - ADSP(데이터분석 준전문가)
+- SQLD(SQL 개발자)
 
 
 
