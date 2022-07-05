@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={last7255})](https://solved.ac/{last7255})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={last7255})](https://solved.ac/{last7255})
 
 ### **Education**
 - 인하대학교 산업경영공학 전공
