@@ -1,6 +1,5 @@
 ### Welcome! 😁😈
 
-intereted in Data Engineering, Analytics, ML, DL, Recommender system✨... :)
 <!--
 **koesnimboi/koesnimboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
