@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 인하대학교 빅데이터 분석 연계전공 
 
 ### **Career**
+- (2022.07 ~ 현재) K-Software Bootcamp 2022
 - (2022.03 ~ 현재) I-GPS 한국 중부발전 프로젝트
 - (2022.07 ~ 2022.07) 산업통상자원부 공공데이터 활용 BI 공모전
 - (2022.01 ~ 2022.01) 빅데이터 분석을 위한 DB 및 SQL 캠프
