@@ -1,4 +1,4 @@
-### Welcome! 😁😈
+## Welcome! 😁😈
 
 <!--
 **koesnimboi/koesnimboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - E-mail : 4800790@naver.com
 - Instagram : https://www.instagram.com/koesnimboi
 
-### **Education**
+## **Education**
 - 인하대학교 산업경영공학 전공
 - 인하대학교 빅데이터 분석 연계전공 
 
-### **Career**
+## **Career**
 - (2022.09 ~ 현재) 비정형 데이터 처리 프로그램 개발 프로젝트
 - (2022.07 ~ 현재) K-Software Bootcamp 2022
 - (2022.03 ~ 현재) IN-GPS 한국 중부발전 프로젝트
@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 
 
-### **Prize**
+## **Prize**
 - 2021 한국품질경영학회 추계 학술대회 우수 논문상
 
 
-### **Certificate**
+## **Certificate**
 - ADSP(데이터분석 준전문가)
 - SQLD(SQL 개발자)
 
