@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=last7255)](https://solved.ac/last7255)
 
+## **Contact**
+- E-mail : 4800790@naver.com
+- Instagram : https://www.instagram.com/koesnimboi
+
 ### **Education**
 - 인하대학교 산업경영공학 전공
 - 인하대학교 빅데이터 분석 연계전공 
