@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 
 ## **Prize**
+- 2022 IN-GPS사업단 중간성과 발표회 최우수상
 - 2021 한국품질경영학회 추계 학술대회 우수 논문상
 
 
