@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=last7255)](https://solved.ac/last7255)
-
 ## **Contact**
 - E-mail : 4800790@naver.com
 - Instagram : https://www.instagram.com/koesnimboi
