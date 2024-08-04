@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Instagram : https://www.instagram.com/koesnimboi
 
 ## **Job**
-- (2023.06 ~) [Hyundai-Rotem Co./O&M Team] Manager
+- (2023.06 ~) [Hyundai-Rotem Co./O&M Engineering Team] Manager
 
 ## **Education**
 - 인하대학교 산업경영공학 전공
